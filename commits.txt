@@ -1,0 +1,23 @@
+commit 02237f9715e4279fb9c0f0ba266f0ec6d8777733
+Author: Jose Luis <limanriquez@hotmail.com>
+Date:   Fri Jul 3 14:29:09 2015 -0600
+
+    redes
+
+commit 2f7497de278468947cb0a5348a3207ed0dc46d19
+Author: Jose Luis <limanriquez@hotmail.com>
+Date:   Fri Jul 3 14:26:53 2015 -0600
+
+    perfil
+
+commit 08be156de1c677411846f9a20b21df2d27436e7f
+Author: Jose Luis <limanriquez@hotmail.com>
+Date:   Fri Jul 3 14:20:12 2015 -0600
+
+    Cambie nombre
+
+commit 83b220a15f260785f4e79c2b3f71ee7796bf3cf2
+Author: Jose Luis <limanriquez@hotmail.com>
+Date:   Fri Jul 3 13:56:27 2015 -0600
+
+    Iniciando
